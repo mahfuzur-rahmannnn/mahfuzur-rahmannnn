@@ -1,5 +1,5 @@
 <div>
-<img src="Header.png" />
+<img src="Header.jng" />
 </div>
 
 Hello, I’m Mahfuzur Rahman, a passionate full-stack developer from Bangladesh with a strong focus on crafting seamless web and mobile applications that blend robust functionality with visually captivating, pixel-perfect designs. With nearly 1.5 years of experience as a freelance developer, I specialize in the MERN stack and am adept at building dynamic, responsive, and high-performance applications.
