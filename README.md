@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td width="50%" align="center">
-      <img src="image 2.jpeg" alt="Image" style="max-width: 80%; height: auto;" />
+      <img src="imagex.jpeg" alt="Image" style="max-width: 80%; height: auto;" />
     </td>
   </tr>
 </table>
