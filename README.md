@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td width="50%" align="center">
-      <img src="image.png" alt="Image" style="max-width: 80%; height: auto;" />
+      <img src="image 2.jpeg" alt="Image" style="max-width: 80%; height: auto;" />
     </td>
   </tr>
 </table>
@@ -59,3 +59,4 @@
     <img src="https://img.shields.io/badge/Instagram-EF3265?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram" />
   </a>
 </div>
+
